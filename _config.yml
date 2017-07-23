@@ -19,20 +19,20 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "CSHHacks"
+  twitter_handle: "PowerhouseClans"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "CSH Hacks | Fall 2017"
-  description: "This is the CSH Hacks official website."
+  title:       "Powerhouse Clans | Clash of Clans"
+  description: "This is the Powerhouse Clans official website."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "CSH Hacks"
-  description: "This is the CSH Hacks official website."
+  name:        "Powerhouse"
+  description: "This is the Powerhouse Clans official website."
   date:        "Fall 2017"
-  location:    "Cold Spring Harbor, NY, United States"
+  location:    "United States"
 
   trust_badge:
     year:   "2017"  # season year
@@ -44,62 +44,66 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://cshhackathon.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://powerhouseclans.github.io/powerhouseweb/success.html"
       - text: "Sponsor"
-        href: "mailto:cshhackathon@gmail.com"
+        href: "mailto:powerhouseclans@gmail.com"
 
   about:
     description: >
-      CSH Hacks is a two day hackathon hosted at the Cold Spring Harbor High School over Saturday and Sunday.
-      Students are inspired to innovate and have fun.
-      Stress-free environment to work at ones own pace on a project with students from across Long Island.
+      Powerhouse Clans are a group of allied clans with the powerhouse name. Much like a franchise, powerhousesis1 is the base 
+      of operations for all powerhouse clans and every powerhouse clan leader originated from powerhousesis1. An elite group 
+      of clans, anyone within the powerhousesis1 clan is elegible to become a franchise.
 
   # Info Sections
   info:
     sections:
       - image: "images/programmingicon.jpg"
         href: "www.github.com"
-        title: "LEARN."
+        title: "Apply."
         description: >
           Learn various programming languages including Java, HTML, CSS, Python, C++, Javascript, and more at your own pace.
       - image: "images/githubicon.png"
         href: "www.github.com"
-        title: "BUILD."
+        title: "Contribute."
         description: >
           Utilize github to collaborate on projects and host websites for free!
       - image: "images/socialmedia.jpg"
         href: "www.github.com"
-        title: "SHARE."
+        title: "Establish."
         description: >
           Connect your project with the world through social media and your very own github pages website.
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "What is Clash of Clans"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        Clash of Clans is a multiplayer smartphone game in which players build a base that is ever expanding.
+        Players can attack other players bases, join or create clans, and participate in huge clan battles.
     - question: "How much does it cost?"
       answer: >
-        Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+        Playing the game is free. Only gems(not needed) may be purchased for a boost.
+    - question: "Why should I join a Powerhouse Clan?"
       answer: >
-        Yes. Only students who are currently attending High School are eligible to attend.
-    - question: "Where is the event?"
+        The Powerhouse name lends credibility. It is a privilege. Everyone in powerhouse clans have been sorted and
+        always contribute to the clans.
+    - question: "Where are the clans located?"
       answer: >
-        The event is being hosted at Cold Spring Harbor High School.
-    - question: "What is Major League Hacking?"
+        Powerhouse Clans location is based on where the leaders are located.
+    - question: "What are the requirments to join?"
       answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-        We work with over 200 Member Events and empower over 70,000 students every year.
-    - question: "Is there a code of conduct?"
+        You must be over level 100 to join any powerhouse clan unless you were grandfathered into a clan. 
+        You must have at least 2400 trophies to join, although once inside there is no need to maintain this requirments. 
+        You must donate almost as much as you receive.
+        Participation in clan wars are how you are promoted to elder or co-leader.
+        No foul language in any clan chats.
+    - question: "What is the clan war strategy?"
       answer: >
-        Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+        Clan war strategy is not available for strategic purposes.
 
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
+      You'll receive more information by email.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --

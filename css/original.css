@@ -200,7 +200,6 @@ section {
 
 /*
    Schedule Section
-*/
 
 .schedule {
   background-color: #fff;
@@ -224,7 +223,37 @@ section {
 .schedule p {
   font-size: 18px;
   line-height: 1.5em;
+}*/
+
+
+/*
+   Sponsors Section
+*/
+
+.sponsors {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 75px 0;
+  position: relative;
 }
+
+.sponsors h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.sponsors h2 {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  padding: 25px 0 10px 0;
+}
+
+.sponsors p {
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
 
 /*
    Map Section

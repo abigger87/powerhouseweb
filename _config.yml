@@ -57,17 +57,17 @@ event:
   # Info Sections
   info:
     sections:
-      - image: "images/programmingicon.jpg"
+      - image: "images/apply.png"
         href: "www.github.com"
         title: "Apply."
         description: >
           Rigorous application process to sort out all applicants. Requirements are listed in the FAQs.
-      - image: "images/githubicon.png"
+      - image: "images/contribute.png"
         href: "www.github.com"
         title: "Contribute."
         description: >
           Donations are required. Particpation in clan war not required but vital in promotions to elder and co-leader.
-      - image: "images/socialmedia.jpg"
+      - image: "images/establish.jpg"
         href: "www.github.com"
         title: "Establish."
         description: >
